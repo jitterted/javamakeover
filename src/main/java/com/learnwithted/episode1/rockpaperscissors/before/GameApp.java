@@ -1,4 +1,4 @@
-package com.learnwithted;
+package com.learnwithted.episode1.rockpaperscissors.before;
 
 import java.util.Random;
 import java.util.Scanner;

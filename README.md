@@ -1,9 +1,9 @@
-# Learn Java
+# Java Makeover
 
-Named after the subreddit at reddit.com/r/learnjava,
+Originally named after the subreddit at reddit.com/r/learnjava,
 this project has a series of mini-projects that start
 with code posted by novices and then refactors to
-better code, where better is:
+better code (the "makeover"), where better is:
 
 * Intention-revealing names
 * Objects that are cohesive

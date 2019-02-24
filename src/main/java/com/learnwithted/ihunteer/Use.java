@@ -9,9 +9,9 @@ public class Use {
     Group result = g.copy();
 
     for (int i = 0; i < result.size(); i++) {
-      if (result.map[i].getValue() >= v) {
-        result[i] = null;
-      }
+//      if (result.map[i].getValue() >= v) {
+//        result[i] = null;
+//      }
     }
     return result;
   }
