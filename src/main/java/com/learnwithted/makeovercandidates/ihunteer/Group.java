@@ -1,4 +1,4 @@
-package com.learnwithted.ihunteer;
+package com.learnwithted.makeovercandidates.ihunteer;
 
 /**
  * https://www.reddit.com/r/javahelp/comments/arn3hg/accessing_a_private_array_through_another_class/
