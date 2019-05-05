@@ -10,3 +10,7 @@ better code (the "makeover"), where better is:
 * Short(er) methods and classes
 * Separation of "domain" logic from technical and infrastructure concerns
 * last, but not least, unit tests
+
+# Submit Your Ideas
+
+File an issue, or come by the [Discord channel](https://discord.gg/9XDfBSZ).
